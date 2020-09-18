@@ -1,10 +1,12 @@
 {
   "name": "express-https-enforce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enforces HTTPS",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "files": ["lib/**/*"],
+  "files": [
+    "lib/**/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
@@ -14,7 +16,14 @@
     "type": "git",
     "url": "git+https://github.com/Dialogtrail/express-https-enforce.git"
   },
-  "keywords": ["express", "https", "force", "enforce", "ssl", "secure"],
+  "keywords": [
+    "express",
+    "https",
+    "force",
+    "enforce",
+    "ssl",
+    "secure"
+  ],
   "author": "Dialogtrail",
   "license": "MIT",
   "bugs": {
