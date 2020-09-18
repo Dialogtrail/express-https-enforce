@@ -1,5 +1,5 @@
 {
-  "name": "express-enforce-https",
+  "name": "express-https-enforce",
   "version": "1.0.0",
   "description": "Enforces HTTPS",
   "main": "lib/index.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dialogtrail/express-enforce-https.git"
+    "url": "git+https://github.com/Dialogtrail/express-https-enforce.git"
   },
   "keywords": ["express", "https", "force", "enforce", "ssl", "secure"],
   "author": "Dialogtrail",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dialogtrail/express-enforce-https/issues"
+    "url": "https://github.com/Dialogtrail/express-https-enforce/issues"
   },
-  "homepage": "https://github.com/Dialogtrail/express-enforce-https#readme",
+  "homepage": "https://github.com/Dialogtrail/express-https-enforce#readme",
   "devDependencies": {
     "@types/node": "^14.11.1",
     "typescript": "^4.0.2"
